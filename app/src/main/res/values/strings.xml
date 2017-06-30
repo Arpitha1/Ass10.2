@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MatDesign</string>
+    <string name="action_settings">Settings</string>
+    <string name="addL">Add</string>
+    <string name="removeL">Remove</string>
+    <string name="searchL">Search</string>
+    <string name="settingsL">Settings</string>
+
+
+</resources>
